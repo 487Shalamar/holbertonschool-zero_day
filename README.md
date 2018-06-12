@@ -1,2 +1,2 @@
 # holbertonschool-zero_day
-school project 0
+first day project(s)
